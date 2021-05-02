@@ -1,0 +1,41 @@
+.white-nav {
+  max-width: 980px;
+  height: 60px;
+  background-color: seashell;
+  margin: 0 auto;
+  padding-top: 40px;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px solid white;
+}
+.white-nav p, .white-nav a {
+  font-family: "Gill Sans", sans-serif;
+  color: white;
+}
+.white-nav .logo {
+  width: 92px;
+  height: 42px;
+  background-image: url(../img/logo-white.png);
+}
+.white-nav .logo p {
+  margin: auto;
+  font-size: 20px;
+}
+.white-nav .links {
+  width: 500px;
+  height: 42px;
+  align-self: center;
+  display: flex;
+  justify-content: space-between;
+}
+.white-nav .links a {
+  text-decoration: none;
+  size: 15px;
+  margin: auto;
+}
+
+@media only screen and (max-width: 600px) {
+  nav .logo {
+    width: 0px;
+  }
+}

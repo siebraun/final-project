@@ -1,0 +1,26 @@
+@import "structure.scss";
+
+//nav
+@import "nav/nav.scss";
+
+//footer
+@import "footer.scss";
+
+//home
+@import "home/hero.scss";
+@import "home/quote.scss";
+@import "home/upcomng-events.scss";
+
+//about
+@import "about/about.scss";
+
+//gallery
+@import "gallery/gallery.scss";
+@import "gallery/gallery-pages.scss";
+
+//blog
+@import "blog/blog-menu.scss";
+@import "blog/blog-pages.scss";
+
+//contact
+@import "contact.scss";

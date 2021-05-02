@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+h1, h2, h3, h4, h5, h6, p{
+    margin-bottom: 16px;
+}
+
+@font-face {
+    font-family: 'Pt Serif Bold';
+    src: url(../fonts/PTSerif-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'Pt Serif Bold Italic';
+    src: url(../fonts/PTSerif-BoldItalic.ttf);
+}
+
+@font-face {
+    font-family: 'Pt Serif Italic';
+    src: url(../fonts/PTSerif-Italic.ttf);
+}
+
+@font-face {
+    font-family: 'Pt Serif Regular';
+    src: url(../fonts/PTSerif-Regular.ttf);
+}
+
+$overlay: rgba(255,209,64,.7);

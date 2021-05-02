@@ -1,0 +1,114 @@
+.white-nav{
+    max-width: 980px;
+    height: 60px;
+    margin: 0 auto;
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid white;
+
+
+    p, a{
+        font-family: 'Gill Sans', sans-serif;
+        color: white;
+    }
+
+    .logo{
+        margin: -20px;
+        width: 92px; 
+        height: 42px;
+        background-image: url(../img/logo-white.png);
+        
+        p{
+            margin: auto;
+            font-size: 20px;
+        }
+        
+    }
+
+    .links{
+        margin-top: -10px;
+        width: 500px;
+        height: 42px;
+        // background-color: pink;
+        align-self: center;
+        display: flex;
+        justify-content: space-between;
+
+        a{
+            text-decoration: none;
+            size: 15px;
+            margin: auto;
+        }
+
+        p{
+            color: #EE4367;
+            font-size: 30px;
+            font-family: "PT Serif Regular";
+        }
+    }
+}
+
+.black-nav{
+    width: 980px;
+    height: 60px;
+    margin: 0 auto;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px solid black;
+
+
+    p, a{
+        font-family: 'Gill Sans', sans-serif;
+        color: black;
+    }
+
+    .logo{
+        margin-top: -20px;
+        width: 92px; 
+        height: 42px;
+        background-image: url(../../img/logo-black.svg);
+        
+        p{
+            margin: auto;
+            font-size: 20px;
+        }
+        
+    }
+
+    .links{
+        width: 500px;
+        height: 42px;
+        // background-color: pink;
+        align-self: center;
+        display: flex;
+        justify-content: space-between;
+
+        a{
+            text-decoration: none;
+            size: 15px;
+            margin: auto;
+        }
+
+        p{
+            color: #EE4367;
+            font-size: 30px;
+            font-family: "PT Serif Regular";
+        }
+    }
+}
+
+
+
+
+// media queries
+
+@media only screen and (max-width: 600px) {
+    nav {
+        .logo{
+            width: 0px;
+        }
+    }
+}
