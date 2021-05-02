@@ -88,7 +88,7 @@ h1, h2, h3, h4, h5, h6, p {
   margin-top: -20px;
   width: 92px;
   height: 42px;
-  background-image: url(../../img/logo-black.svg);
+  background-image: url(../img/logo-black.svg);
 }
 .black-nav .logo p {
   margin: auto;
@@ -376,21 +376,21 @@ footer .copyright p {
 .gallery-wrapper .gallery .gallery-row .gallery1 {
   width: 489px;
   height: 189px;
-  background-image: linear-gradient(to right, rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url(../../img/1.png);
+  background-image: linear-gradient(to right, rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url(../img/1.png);
   background-size: cover;
   background-position: center;
 }
 .gallery-wrapper .gallery .gallery-row .gallery2 {
   width: 187px;
   height: 189px;
-  background-image: linear-gradient(to right, rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url(../../img/2.jpeg);
+  background-image: linear-gradient(to right, rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url(../img/2.jpeg);
   background-size: cover;
   background-position: center;
 }
 .gallery-wrapper .gallery .gallery-row .gallery3 {
   width: 265px;
   height: 189px;
-  background-image: linear-gradient(to right, rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url(../../img/3.jpg);
+  background-image: linear-gradient(to right, rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url(../img/3.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -398,7 +398,7 @@ footer .copyright p {
   margin-top: 18px;
   width: 603px;
   height: 306px;
-  background-image: linear-gradient(to right, rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url(../../img/4.jpg);
+  background-image: linear-gradient(to right, rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url(../img/4.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -406,7 +406,7 @@ footer .copyright p {
   margin-top: 18px;
   width: 355px;
   height: 306px;
-  background-image: linear-gradient(to right, rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url(../../img/5.png);
+  background-image: linear-gradient(to right, rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url(../img/5.png);
   background-size: cover;
   background-position: center;
 }
@@ -454,25 +454,25 @@ footer .copyright p {
   line-height: 150%;
 }
 .gallery-pages-wrapper #gallery1 {
-  background-image: linear-gradient(to right, rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url(../../img/1.png);
+  background-image: linear-gradient(to right, rgba(255, 209, 64, 0.7), rgba(255, 209, 64, 0.7)), url(../img/1.png);
 }
 .gallery-pages-wrapper #gallery1 .pages-title h1, .gallery-pages-wrapper #gallery1 .pages-title h2 {
   color: #FFD140;
 }
 .gallery-pages-wrapper #gallery2 {
-  background-image: linear-gradient(to right, rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url(../../img/2.jpeg);
+  background-image: linear-gradient(to right, rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url(../img/2.jpeg);
 }
 .gallery-pages-wrapper #gallery2 .pages-title h1, .gallery-pages-wrapper #gallery2 .pages-title h2 {
   color: #ee4367;
 }
 .gallery-pages-wrapper #gallery3 {
-  background-image: linear-gradient(to right, rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url(../../img/3.jpg);
+  background-image: linear-gradient(to right, rgba(8, 173, 105, 0.7), rgba(8, 173, 105, 0.7)), url(../img/3.jpg);
 }
 .gallery-pages-wrapper #gallery3 .pages-title h1, .gallery-pages-wrapper #gallery3 .pages-title h2 {
   color: #08ad69;
 }
 .gallery-pages-wrapper #gallery4 {
-  background-image: linear-gradient(to right, rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url(../../img/4.jpg);
+  background-image: linear-gradient(to right, rgba(84, 13, 110, 0.7), rgba(84, 13, 110, 0.7)), url(../img/4.jpg);
 }
 .gallery-pages-wrapper #gallery4 .pages-title h2 {
   font-size: 105px;
@@ -482,7 +482,7 @@ footer .copyright p {
   color: #540d6e;
 }
 .gallery-pages-wrapper #gallery5 {
-  background-image: linear-gradient(to right, rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url(../../img/5.png);
+  background-image: linear-gradient(to right, rgba(59, 206, 171, 0.7), rgba(59, 206, 171, 0.7)), url(../img/5.png);
 }
 .gallery-pages-wrapper #gallery5 .pages-title h1, .gallery-pages-wrapper #gallery5 .pages-title h2 {
   color: #3bceab;
@@ -548,7 +548,7 @@ footer .copyright p {
 .blog-page-wrapper .blog-wrapper .gallery-row .blog-box .blog-content .blog-img {
   height: 140px;
   width: 380px;
-  background-image: url(../../img/blog-img.jpg);
+  background-image: url(../img/blog-img.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -570,7 +570,7 @@ footer .copyright p {
 }
 .blog-pages-wrapper .pages-header {
   height: 300px;
-  background-image: linear-gradient(to right, rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url(../../img/blog-img.jpg);
+  background-image: linear-gradient(to right, rgba(238, 67, 103, 0.7), rgba(238, 67, 103, 0.7)), url(../img/blog-img.jpg);
   background-size: cover;
   background-position: center;
   padding-top: 70px;
